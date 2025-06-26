@@ -5,10 +5,10 @@ It extracts headlines from the `<h2>` and `<h3>` HTML tags and saves them into a
 
  🧰  Tools & Requirements
       Tool             Purpose                          
-      `Python 3.x`     Core programming language        
-      `requests`       To send HTTP requests            
-      `BeautifulSoup`  To parse HTML and extract data   
-      `datetime`       To generate filenames with dates 
+      `Python 3.x`   : Core programming language        
+      `requests`     : To send HTTP requests            
+      `BeautifulSoup`: To parse HTML and extract data   
+      `datetime`     : To generate filenames with dates 
 
   🚀  Features
       🌐 Fetches realtime news headlines directly from India TV News homepage  
